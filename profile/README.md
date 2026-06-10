@@ -27,8 +27,7 @@ Unsere Deployments basieren auf den HAFN Best Practices und nutzen:
 
 ## 📦 Rollen im Team
 - **Cloud Solution Architect (CSA)**
-- **Platform Engineer (Engineering & Administration)**
-- **Solution Delivery & Support**
+- **Cloud Solution Engineer (Engineering & Administration)**
 
 ---
 
@@ -61,5 +60,4 @@ Our deployments follow HAFN best practices using:
 
 ## 📦 Team Roles
 - **Cloud Solution Architect (CSA)**
-- **Platform Engineer (Engineering & Administration)**
-- **Solution Delivery & Support**
+- **Cloud Solution Engineer (Engineering & Administration)**
