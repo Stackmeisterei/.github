@@ -15,12 +15,6 @@ Please include:
 - Steps to reproduce or a proof of concept
 - The possible impact
 
-## What happens next
-
-- We confirm receipt within **2 working days**.
-- We assess the issue and tell you the next steps within **5 working days**.
-- We keep you updated until the issue is fixed.
-
 ## Leaked secrets
 
 If you find a secret (password, key, token) in this repository:
